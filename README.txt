@@ -28,7 +28,13 @@ Original maintainer
 
 Carina Martinez
 https://moodle.org/user/profile.php?id=298052
-martinez.carina1@gmail.com
+
+
+Patches for Moodle 3.2
+======================
+
+Juan Eladio Sanchez Rosas
+https://moodle.org/user/profile.php?id=2121374
 
 
 License

@@ -18,7 +18,7 @@ Changes for Moodle 3.2
 
 This is a patched version of the plugin, based on the last known release. It used deprecated code (changed by MDL-46548, introduced in Moodle 2.8) but it works in Moodle 3.2.
 
-If you want to test this code in other versions of Moodle, edit the file version.php, and change $plugin->version  = 2013092101; with the right value of the Moodle version you need. The values are listed here https://docs.moodle.org/dev/Releases#Moodle_3.2
+If you want to test this code in other versions of Moodle (between 2.8 and 3.1), edit the file version.php, and change $plugin->version  = 2013092101; with the right value of the Moodle version you need. The values are listed here https://docs.moodle.org/dev/Releases#Moodle_3.2
 
 If you have success using this plugin in other Moodle versions, send an Issue in Github and I will update the minimum version :D
 

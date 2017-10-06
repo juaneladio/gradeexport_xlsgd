@@ -7,14 +7,14 @@ This plugin exports grades in xls file, adding:
 
 
 Install
-=======
+-------
 
 After download as a ZIP file, rename the plugin directory to "xlsgd" and transfer into moodle\grade\export\. 
 Check admin notifications to install.
 
 
 Changes for Moodle 3.2
-======================
+----------------------
 
 This is a patched version of the plugin, based on the last known release. It used deprecated code (changed by MDL-46548, introduced in Moodle 2.8) but it works in Moodle 3.2.
 
@@ -24,20 +24,20 @@ If you have success using this plugin in other Moodle versions, send an Issue in
 
 
 Original maintainer
-===================
+-------------------
 
 Carina Martinez
 https://moodle.org/user/profile.php?id=298052
 
 
 Patches for Moodle 3.2
-======================
+----------------------
 
 Juan Eladio Sanchez Rosas
 https://moodle.org/user/profile.php?id=2121374
 
 
 License
-=======
+-------
 
 Released Under the GNU General Public Licence http://www.gnu.org/copyleft/gpl.html

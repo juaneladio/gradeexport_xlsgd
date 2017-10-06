@@ -20,7 +20,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 $plugin->component = "gradeexport_xlsgd";
-$plugin->version  = 2013092101;
+$plugin->version  = 2017100500;
 $plugin->requires = 2016120500;
 $plugin->release = "3.0";
 $plugin->maturity = MATURITY_ALPHA;

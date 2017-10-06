@@ -20,6 +20,8 @@ This is a patched version of the plugin, based on the last known release. It use
 
 If you want to test this code in other versions of Moodle, edit the file version.php, and change $plugin->version  = 2013092101; with the right value of the Moodle version you need. The values are listed here https://docs.moodle.org/dev/Releases#Moodle_3.2
 
+If you have success using this plugin in other Moodle versions, send an Issue in Github and I will update the minimum version :D
+
 
 Original maintainer
 ===================
